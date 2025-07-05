@@ -52,3 +52,5 @@ It allows users to:
 1. Install dependencies:
 ```bash
 pip install -r requirements.txt
+```
+2. Fill in the config and configС files with your data
