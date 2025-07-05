@@ -1,54 +1,54 @@
-# IDUadmBot
+# IDUadmBot 
 
-> Telegram-бот для студентів, вступників та адміністрації Інституту державного управління (ІДУ).
-
----
-
-##  Опис
-
-Цей бот створено для спрощення комунікації між студентами, абітурієнтами та адміністрацією ІДУ.  
-Він дозволяє:
-
-- отримати інформацію про спеціальності, стипендії, документи, розклад;
-- подати скарги, звернення або запити;
-- отримати доступ до соціальних мереж, студентської ради та контактів;
-- працювати адміністраторам з конфігураціями (файли, архіви, перезавантаження).
+> Telegram bot for students, applicants, and administration of the Institute of Public Administration (ІДУ).
 
 ---
 
-##  Функціональність
+##  Description
 
-###  Студенту
-- 📅 Розклад
-- 🏫 Довідка про місце навчання
-- ⚠️ Скарги та звернення
-- 🎓 Студентська рада
-- 🌐 Соціальні мережі
-- 📞 Консультація
+This bot simplifies communication between students, applicants, and administration at the Institute of Public Administration.  
+It allows users to:
 
-###  Вступнику
-- 🎓 Спеціальності
-- 📋 Умови відбору
-- 🗓 Календар вступу
-- 📊 Вимоги до конкурсного балу
-- 💸 Джерела фінансування
-- 📄 Конкурсні пропозиції
-- 📑 Документи
-- 🧮 Калькулятор балу НМТ
-- ✍️ Мотиваційний лист
-- 🏠 Гуртожиток, 🎓 Стипендії, 🏅 Військова кафедра
-
-###  Адміністратор
-- 🗃 Завантаження/вивантаження `config.py` та `config_media.zip`
-- 📜 Експорт архівів скарг
-- ⏱ Автоматичне завершення сесії через 10 хвилин
+- get information about academic programs, scholarships, documents, and schedules;
+- submit complaints, inquiries, or requests;
+- access social media, student council contacts, and official links;
+- let administrators manage configuration files and archives.
 
 ---
 
-##  Запуск
+##  Features
 
-> Потрібен Python 3.9+ та бібліотека `aiogram`.
+###  For Students
+- 📅 Class schedule
+- 🏫 Enrollment certificate
+- ⚠️ Complaints and inquiries
+- 🎓 Student council
+- 🌐 Social media links
+- 📞 Consultation services
 
-1. Встановити залежності:
+###  For Applicants
+- 🎓 Academic programs
+- 📋 Admission requirements
+- 🗓 Admission calendar
+- 📊 Competition score rules
+- 💸 Funding sources
+- 📄 Degree program offers
+- 📑 Required documents
+- 🧮 NMT score calculator
+- ✍️ Motivation letter template
+- 🏠 Dormitories, 🎓 Scholarships, 🏅 Military training
+
+###  For Administrators
+- 🗃 Upload/download `config.py` and `config_media.zip`
+- 📜 Export complaint archives
+- ⏱ Auto session timeout after 10 minutes
+
+---
+
+##  Getting Started
+
+> Requires Python 3.9+ and `aiogram` library.
+
+1. Install dependencies:
 ```bash
 pip install -r requirements.txt
