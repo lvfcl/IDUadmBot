@@ -1,6 +1,6 @@
 # IDUadmBot 
 
-> Telegram bot for students, applicants, and administration of the Institute of Public Administration (ІДУ).
+> Telegram bot for students, applicants, and administration of the Institute of Public Administration (ukrainian - ІДУ).
 
 ---
 
