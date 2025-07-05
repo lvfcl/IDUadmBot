@@ -1,6 +1,6 @@
 # IDUadmBot 
 
-> Telegram bot for students, applicants, and administration of the Institute of Public Administration (ukrainian - Інститут Державного Управління (IDU)).
+> Telegram bot for students, applicants, and administration of the Institute of Public Administration.
 
 ---
 
@@ -36,7 +36,9 @@ It allows users to:
 - 📑 Required documents
 - 🧮 NMT score calculator
 - ✍️ Motivation letter template
-- 🏠 Dormitories, 🎓 Scholarships, 🏅 Department of Military Training
+- 🏠 Dormitories
+- 🎓 Scholarships
+- 🏅 Department of Military Training
 
 ###  For Administrators
 - 🗃 Upload/download `config.py` and `config_media.zip`
