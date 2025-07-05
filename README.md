@@ -36,7 +36,7 @@ It allows users to:
 - 📑 Required documents
 - 🧮 NMT score calculator
 - ✍️ Motivation letter template
-- 🏠 Dormitories, 🎓 Scholarships, 🏅 Military training
+- 🏠 Dormitories, 🎓 Scholarships, 🏅 Department of Military Training
 
 ###  For Administrators
 - 🗃 Upload/download `config.py` and `config_media.zip`
